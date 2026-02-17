@@ -1,0 +1,1 @@
+Projeto criado acompanhando o curso de Fullstack da Rocketseat, para aplicar o aprendizado de grid.
