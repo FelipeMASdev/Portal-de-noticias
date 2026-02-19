@@ -16,6 +16,10 @@
   gap:16px;
 }
 
+.gap-32{
+  gap:16px;
+}
+
 .txt-xxl{
   font:var(--txt-h1);
 }

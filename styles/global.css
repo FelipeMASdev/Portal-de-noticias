@@ -27,6 +27,7 @@ body{
 }
 
 a{
+  font: var(--txt-span);
   text-decoration: none;
   color: inherit;
 }
@@ -39,15 +40,16 @@ h1, h2, h3{
   font:inherit;
 }
 
-span{
+/* span{
   font: var(--txt-span);
-}
+} */
 
 img{
  max-width: 100%;
 }
 
 .container{
+  width: 1280px;
   max-width: 1280px;
   padding-inline: 32px;
   margin-inline: auto;
